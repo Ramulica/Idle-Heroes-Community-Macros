@@ -63,7 +63,7 @@ Summon-focused flows with careful pacing for inventory sanity:
 
 ## 🚀 How to Import Macros & Controls
 
-Below are short visual guides—swap the image paths under `./docs/images/` whenever you finalize filenames.
+Below are short visual guides (screenshots live in [`docs/images/`](./docs/images/)).
 
 ### Macros — Recordings & scripted taps
 
