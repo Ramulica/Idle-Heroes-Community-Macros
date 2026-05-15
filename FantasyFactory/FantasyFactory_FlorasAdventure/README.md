@@ -74,16 +74,23 @@ Follow this phased roadmap to squeeze maximum value without sabotaging progressi
 
 ## 🎬 How this macro runs (demo video)
 
-Below is what **`Flora's Workshop.json`** looks like when it’s driving taps on a fully prepped board—this is **how the macro works** end-to-end.
+Here’s **`Flora's Workshop.json`** on a prepared board—the **whole run** captured so you can see **how the macro behaves** step by step.
 
-- **Playback:** The clip is shown at **2× speed** so it’s quicker to watch.
-- **Real runtime:** One **full macro loop** normally runs about **2–3 minutes** at normal speed.
-- **Recording setup:** Filmed with **Main House maxed** while parked on **Stage 1-6** (Vintage Tailcoat).
+- **Source recording:** Captured playback is sped up (**2×**).
+- **Real runtime:** A **full macro loop** is roughly **2–3 minutes** at normal speed.
+- **Setup in the footage:** Filmed with **Main House maxed** on **Stage 1-6** (Vintage Tailcoat).
 
-**Download / open in new tab:** [FlorasAdventureMacroDemo.mp4](https://github.com/Ramulica/Idle-Heroes-Community-Macros/raw/master/docs/videos/FlorasAdventureMacroDemo.mp4)
+### Inline playback (shows directly in README)
 
-<video src="https://raw.githubusercontent.com/Ramulica/Idle-Heroes-Community-Macros/master/docs/videos/FlorasAdventureMacroDemo.mp4" controls playsinline width="100%">
-  If the player does not load, use the download link above or open the MP4 from <code>docs/videos/</code> in this repository.
-</video>
+GitHub’s README viewer does **not** reliably render `<video>` or MP4 URLs served from repo `raw.` links—they usually appear as passive links instead of inline players.
+
+To preview the footage **automatically**, this folder ships an animated **GIF** covering the **entire clip**. It plays **inline**, loops continuously, and is encoded around **6 fps** to keep GitHub happy while preserving the pacing of taps and merges.
+
+![Flora's Workshop macro — full demo replay (GIF, inline autoplay)](./flora_macro_demo_preview.gif)
+
+### Want the smoother MP4 with native controls?
+
+1. Attach **`docs/videos/FlorasAdventureMacroDemo.web.mp4`** (compressed ~720p, ~**5 MB**, fits GitHub markdown attachments) via the README editor at **github.com**.  
+2. GitHub uploads it to **`user-images.githubusercontent.com`** automatically. Paste that naked URL alone on its own line and the native controls appear—the **maximum-quality copy** stays in [`FlorasAdventureMacroDemo.mp4`](../../docs/videos/FlorasAdventureMacroDemo.mp4), and [`FlorasAdventureMacroDemo.web.mp4`](../../docs/videos/FlorasAdventureMacroDemo.web.mp4) mirrors the trimmed upload version.
 
 Happy merging—and may your merges always resolve five-wide without RNG grief! 🌸
