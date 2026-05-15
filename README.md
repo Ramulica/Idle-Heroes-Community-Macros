@@ -63,7 +63,7 @@ Summon-focused flows with careful pacing for inventory sanity:
 
 ## 🚀 How to Import Macros & Controls
 
-Below are short visual guides. The PNGs are shipped on the **`readme-media`** [release](https://github.com/Ramulica/Idle-Heroes-Community-Macros/releases/tag/readme-media) so the **Code** tab stays macro-only—nothing is stored under `docs/` in git.
+Below are short visual guides (screenshots live in [`docs/images/`](./docs/images/)).
 
 ### Macros — Recordings & scripted taps
 
@@ -71,13 +71,13 @@ Below are short visual guides. The PNGs are shipped on the **`readme-media`** [r
 
 Click the Macro recorder icon on the BlueStacks side toolbar.
 
-![Open Macro Menu](https://github.com/Ramulica/Idle-Heroes-Community-Macros/releases/download/readme-media/open_macro_menu.png)
+![Open Macro Menu](./docs/images/open_macro_menu.png)
 
 **Step 2 — Import your macro file**
 
 In the Macro Manager, open the menu (☰) and choose **Import macro**, then pick the `.json` you downloaded from this repo.
 
-![Import Macro](https://github.com/Ramulica/Idle-Heroes-Community-Macros/releases/download/readme-media/import_macro.png)
+![Import Macro](./docs/images/import_macro.png)
 
 ### Key controls — Keyboard & tap mapping
 
@@ -85,13 +85,13 @@ In the Macro Manager, open the menu (☰) and choose **Import macro**, then pick
 
 Use the keyboard / game-controls icon on the side toolbar, then select **Controls editor** (via the Game controls panel).
 
-![Open Control Menu](https://github.com/Ramulica/Idle-Heroes-Community-Macros/releases/download/readme-media/open_control_menu.png)
+![Open Control Menu](./docs/images/open_control_menu.png)
 
 **Step 4 — Import a custom control scheme**
 
 In **Controls editor**, set **Control scheme** to **Custom** (if needed), then use the **Import** control-scheme button to load the matching `.cfg` from this repo.
 
-![Import Control](https://github.com/Ramulica/Idle-Heroes-Community-Macros/releases/download/readme-media/import_control.png)
+![Import Control](./docs/images/import_control.png)
 
 > **Tip:** After importing, test in a safe screen (town / bag) before running long unattended sessions. Resolution, UI scale, and BlueStacks version can all affect alignment.
 

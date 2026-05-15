@@ -1,7 +1,0 @@
-# README / tutorial binaries — not committed. They live on GitHub under Release tag `readme-media`.
-# Run: pwsh ./scripts/Publish-ReadmeMedia.ps1
-/docs/
-
-FantasyFactory/FantasyFactory_FlorasAdventure/board-setup.png
-FantasyFactory/FantasyFactory_FlorasAdventure/stage-items-pathing.png
-FantasyFactory/FantasyFactory_FlorasAdventure/flora_macro_demo_preview.gif
