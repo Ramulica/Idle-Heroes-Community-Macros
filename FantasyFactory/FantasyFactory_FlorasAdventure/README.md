@@ -23,9 +23,9 @@ Automatically taps **production items** placed in the **first three rows**, merg
 - **Stage 2-6 — Suspender Dress**
 - **Stage 2-8 — Ceremony Tuxedo** *(slowest clears but juicy passive stones)*
 
-📌 Use **`stage-items-pathing.png`** (second screenshot bundled beside this README) to visualize those stage-specific items and how routes should feel before you trust overnight runs.
+📌 The reference image below is served from the **`readme-media`** release (not checked into this folder) so the repo tree stays tidy.
 
-![Stage items & optimal pathing reference](./stage-items-pathing.png)
+![Stage items & optimal pathing reference](https://github.com/Ramulica/Idle-Heroes-Community-Macros/releases/download/readme-media/stage-items-pathing.png)
 
 ### **`Flora's Workshop.json` — Variant 2 · No Complete**
 
@@ -37,9 +37,9 @@ Runs the same **first-three-row production taps + merges**, but **never** comple
 
 These macros rely on **fixed coordinates**. If your workshop grid drifts even a little, taps miss—and loops collapse fast.
 
-📌 Refer to **`board-setup.png`** (first screenshot bundled beside this README) for the canonical layout snapshot.
+📌 The board screenshot below is served from the **`readme-media`** release.
 
-![Required Flora board layout](./board-setup.png)
+![Required Flora board layout](https://github.com/Ramulica/Idle-Heroes-Community-Macros/releases/download/readme-media/board-setup.png)
 
 **Hard layout rules**
 
@@ -86,11 +86,13 @@ GitHub’s README viewer does **not** reliably render `<video>` or MP4 URLs serv
 
 To preview the footage **automatically**, this folder ships an animated **GIF** covering the **entire clip**. It plays **inline**, loops continuously, and is encoded around **6 fps** to keep GitHub happy while preserving the pacing of taps and merges.
 
-![Flora's Workshop macro — full demo replay (GIF, inline autoplay)](./flora_macro_demo_preview.gif)
+![Flora's Workshop macro — full demo replay (GIF, inline autoplay)](https://github.com/Ramulica/Idle-Heroes-Community-Macros/releases/download/readme-media/flora_macro_demo_preview.gif)
 
 ### Want the smoother MP4 with native controls?
 
-1. Attach **`docs/videos/FlorasAdventureMacroDemo.web.mp4`** (compressed ~720p, ~**5 MB**, fits GitHub markdown attachments) via the README editor at **github.com**.  
-2. GitHub uploads it to **`user-images.githubusercontent.com`** automatically. Paste that naked URL alone on its own line and the native controls appear—the **maximum-quality copy** stays in [`FlorasAdventureMacroDemo.mp4`](../../docs/videos/FlorasAdventureMacroDemo.mp4), and [`FlorasAdventureMacroDemo.web.mp4`](../../docs/videos/FlorasAdventureMacroDemo.web.mp4) mirrors the trimmed upload version.
+Host the clip on the **`readme-media`** release (runs `scripts/Publish-ReadmeMedia.ps1` after `gh auth login`) and open the file from your machine, or click through when it’s live:
+
+- **[FlorasAdventureMacroDemo.web.mp4](https://github.com/Ramulica/Idle-Heroes-Community-Macros/releases/download/readme-media/FlorasAdventureMacroDemo.web.mp4)** — smaller 720p encode for quick downloads  
+- **[FlorasAdventureMacroDemo.mp4](https://github.com/Ramulica/Idle-Heroes-Community-Macros/releases/download/readme-media/FlorasAdventureMacroDemo.mp4)** — highest-quality master
 
 Happy merging—and may your merges always resolve five-wide without RNG grief! 🌸
