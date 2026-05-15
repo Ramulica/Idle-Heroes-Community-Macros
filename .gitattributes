@@ -1,0 +1,9 @@
+# GitHub Linguist only — does NOT hide these paths in the repository file browser.
+# Keeps PNG/GIF/MP4 and docs/ from dominating the repo language bar.
+
+docs/** linguist-documentation
+
+FantasyFactory/FantasyFactory_FlorasAdventure/*.png linguist-vendored
+FantasyFactory/FantasyFactory_FlorasAdventure/*.gif linguist-vendored
+
+docs/videos/*.mp4 linguist-vendored
