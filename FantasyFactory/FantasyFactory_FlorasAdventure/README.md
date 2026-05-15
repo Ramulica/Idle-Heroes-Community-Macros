@@ -80,10 +80,10 @@ Below is what **`Flora's Workshop.json`** looks like when it’s driving taps on
 - **Real runtime:** One **full macro loop** normally runs about **2–3 minutes** at normal speed.
 - **Recording setup:** Filmed with **Main House maxed** while parked on **Stage 1-6** (Vintage Tailcoat).
 
-**Video file:** [`FlorasAdventureMacroDemo.mp4`](../../docs/videos/FlorasAdventureMacroDemo.mp4)
+**Download / open in new tab:** [FlorasAdventureMacroDemo.mp4](https://github.com/Ramulica/Idle-Heroes-Community-Macros/raw/master/docs/videos/FlorasAdventureMacroDemo.mp4)
 
-<video src="../../docs/videos/FlorasAdventureMacroDemo.mp4" controls playsinline muted width="100%">
-  Video playback is not supported in this view—open the MP4 link above.
+<video src="https://raw.githubusercontent.com/Ramulica/Idle-Heroes-Community-Macros/master/docs/videos/FlorasAdventureMacroDemo.mp4" controls playsinline width="100%">
+  If the player does not load, use the download link above or open the MP4 from <code>docs/videos/</code> in this repository.
 </video>
 
 Happy merging—and may your merges always resolve five-wide without RNG grief! 🌸
