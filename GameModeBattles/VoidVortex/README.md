@@ -50,15 +50,21 @@ Here’s **`Void Vortex.json`** with **`voidVortex.cfg`** active—**planet sele
 
 ### Inline playback (shows directly in README)
 
-GitHub’s README viewer does **not** reliably render `<video>` tags or inline MP4s from `raw.githubusercontent.com`—they often show up as plain links instead of a player.
+GitHub’s README viewer does **not** reliably render `<video>` tags, and **MP4s usually will not autoplay inline** the way a GIF does.
 
-To preview the footage **automatically**, this repo includes an animated **GIF** of the full demo. It plays **inline**, loops continuously, and is encoded at **5 fps** (520px wide) to keep the file size reasonable while still showing pacing and screen flow.
+This folder uses a **relative path** to the preview GIF so it loads in **Cursor / VS Code Markdown preview** and on **GitHub** from the same commit—no dependency on `raw.githubusercontent.com` (which breaks until you **push**, and can be blocked in some previews).
 
-![Void Vortex macro — full demo replay (GIF, inline autoplay)](https://raw.githubusercontent.com/Ramulica/Idle-Heroes-Community-Macros/master/docs/images/void-vortex/void_vortex_macro_demo_preview.gif)
+**Preview (GIF, loops):** click the image to open the full **MP4** in the browser.
 
-Below is the full-quality **MP4** as a bare URL—on **github.com** this often renders an **inline player** once the file is on **`master`**:
+[![Void Vortex macro — full demo replay (GIF); click for MP4](../../docs/images/void-vortex/void_vortex_macro_demo_preview.gif)](../../docs/videos/VoidVortexMacroDemo.mp4)
+
+**Full-quality MP4** (same file as the link target above): [open `VoidVortexMacroDemo.mp4`](../../docs/videos/VoidVortexMacroDemo.mp4)
+
+If you are on **github.com** and your browser still will not play it inline, try this **raw** URL on its own line (GitHub sometimes turns it into a player):
 
 https://github.com/Ramulica/Idle-Heroes-Community-Macros/raw/master/docs/videos/VoidVortexMacroDemo.mp4
+
+**Troubleshooting a blank GIF:** confirm `docs/images/void-vortex/void_vortex_macro_demo_preview.gif` exists on disk, then **`git push`** so GitHub serves the same files you see locally.
 
 ### Smoother MP4 with native controls?
 
