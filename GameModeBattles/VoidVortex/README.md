@@ -46,6 +46,20 @@ Please read this block **before** you hit **Play** on the macro:
 
 ## 🎬 Watch it in Action
 
-Curious how the loop feels in practice? Check out the demo clip below:
+Here’s **`Void Vortex.json`** with **`voidVortex.cfg`** active—**planet selection**, **`1`**-key targeting, and **battle starts** so you can see how the loop behaves end to end.
 
-<video src="../../docs/videos/VoidVortexMacroDemo.mp4" controls="controls" width="100%"></video>
+### Inline playback (shows directly in README)
+
+GitHub’s README viewer does **not** reliably render `<video>` tags or inline MP4s from `raw.githubusercontent.com`—they often show up as plain links instead of a player.
+
+To preview the footage **automatically**, this repo includes an animated **GIF** of the full demo. It plays **inline**, loops continuously, and is encoded at **5 fps** (520px wide) to keep the file size reasonable while still showing pacing and screen flow.
+
+![Void Vortex macro — full demo replay (GIF, inline autoplay)](https://raw.githubusercontent.com/Ramulica/Idle-Heroes-Community-Macros/master/docs/images/void-vortex/void_vortex_macro_demo_preview.gif)
+
+Below is the full-quality **MP4** as a bare URL—on **github.com** this often renders an **inline player** once the file is on **`master`**:
+
+https://github.com/Ramulica/Idle-Heroes-Community-Macros/raw/master/docs/videos/VoidVortexMacroDemo.mp4
+
+### Smoother MP4 with native controls?
+
+If the URL above only shows as a link, attach a trimmed copy via the README editor on **github.com** (GitHub uploads to `user-images.githubusercontent.com`), then paste that URL on its own line—same trick described in **[Flora’s Adventure README](../../FantasyFactory/FantasyFactory_FlorasAdventure/README.md#want-the-smoother-mp4-with-native-controls)**.
