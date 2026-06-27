@@ -22,6 +22,20 @@ Everything here is meant to be shared, improved, and maintained together as the 
 
 Click any folder below to jump straight into the macros and configs for that part of the game.
 
+### [Daily Chores](./DailyChores/)
+
+**One-tap morning routine** — pre-merged dailies plus a guide to building your own chains with BlueStacks **Macro Merge**:
+
+- [Full Simple Day Macro](./DailyChores/Full%20Simple%20Day%20Macro.json) — master daily bundle
+- [claim mail](./DailyChores/claim%20mail/) · [claim 2 idle masters](./DailyChores/claim%202%20idle%20masters/)
+- [Full Celestial Island](./DailyChores/Full%20Celestial%20Island/) · [Full IDA Arena Macro](./DailyChores/Full%20IDA%20Arena%20Macro/)
+- [Full Claim Soul Temple Tasks](./DailyChores/Full%20Claim%20Soul%20Temple%20Tasks/) · [Full Void Egg](./DailyChores/Full%20Void%20Egg/)
+- [Full Fantasy Arcade Farm](./DailyChores/Full%20Fantasy%20Arcade%20Farm/)
+
+### [All Components](./AllComponents/)
+
+**Building-block catalog** — every action, navigation, and utility macro indexed by category (use with [Move From A → B](./MoveFromAToB/) for routing).
+
 ### [Arena Battles](./ArenaBattles/)
 
 PvP-style arenas and competitive ladders:
@@ -45,10 +59,15 @@ Structured PvE/PvP-ish modes outside the core campaign loop:
 
 - [Void Campaign](./GameModeBattles/VoidCampaign/)
 - [Void Vortex](./GameModeBattles/VoidVortex/)
+- [Celestial Island](./GameModeBattles/CelestialIsland/)
+- [Soul Temple](./GameModeBattles/SoulTemple/)
+- [Void Egg](./GameModeBattles/VoidEgg/)
+- [Tower of Dream](./GameModeBattles/TowerOfDream/)
+- [Ethereal Realm](./GameModeBattles/EtherealRealm/)
 
 ### [Move From A → B](./MoveFromAToB/)
 
-Routing and navigation macros that stitch screens together *(folder scaffold — drop-in macros welcome!)*.
+Routing and navigation macros that stitch screens together — names with a **hyphen** (`Game - Arena`, `Fantasy Factory - Fort Defens`) mean **go from A to B**. Pair with action macros via **[Macro Merge](./DailyChores/README.md#-how-to-build-a-macro-from-other-macros-bluestacks-merge)**.
 
 ### [Summons](./Summons/)
 

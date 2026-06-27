@@ -1,0 +1,158 @@
+{
+    "Acceleration": 1,
+    "CreationTime": "20260522T083752",
+    "DoNotShowWindowOnFinish": false,
+    "Events": [
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 818,
+            "X": 79.5,
+            "Y": 66.9800033569336
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 916,
+            "X": 79.5,
+            "Y": 66.9800033569336
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 2164,
+            "X": 65.77999877929688,
+            "Y": 74.76000213623047
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 2235,
+            "X": 65.77999877929688,
+            "Y": 74.76000213623047
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 3617,
+            "X": 82.62000274658203,
+            "Y": 39.2599983215332
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 3685,
+            "X": 82.62000274658203,
+            "Y": 39.2599983215332
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 6624,
+            "X": 49.06999969482422,
+            "Y": 50.939998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 6708,
+            "X": 49.06999969482422,
+            "Y": 50.939998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 7140,
+            "X": 49.06999969482422,
+            "Y": 50.939998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 7176,
+            "X": 49.06999969482422,
+            "Y": 50.939998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 7291,
+            "X": 49,
+            "Y": 50.939998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 7359,
+            "X": 49,
+            "Y": 50.939998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 7422,
+            "X": 49,
+            "Y": 50.939998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 7486,
+            "X": 49,
+            "Y": 50.939998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 8019,
+            "X": 50.86000061035156,
+            "Y": 81.4800033569336
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 8088,
+            "X": 50.86000061035156,
+            "Y": 81.4800033569336
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 8378,
+            "X": 50.790000915527344,
+            "Y": 81.4800033569336
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 8439,
+            "X": 50.790000915527344,
+            "Y": 81.4800033569336
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 8867,
+            "X": 50.790000915527344,
+            "Y": 81.4800033569336
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 8935,
+            "X": 50.790000915527344,
+            "Y": 81.4800033569336
+        }
+    ],
+    "LoopDuration": 0,
+    "LoopInterval": 0,
+    "LoopIterations": 20,
+    "LoopType": "TillLoopNumber",
+    "MacroSchemaVersion": 3,
+    "MergeConfigurations": [
+    ],
+    "RestartPlayer": false,
+    "RestartPlayerAfterMinutes": 60,
+    "Shortcut": "",
+    "StopOnHomeScreen": false
+}

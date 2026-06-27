@@ -1,0 +1,102 @@
+{
+    "Acceleration": 1,
+    "CreationTime": "20260609T095406",
+    "DoNotShowWindowOnFinish": false,
+    "Events": [
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 1306,
+            "X": 80.18000030517578,
+            "Y": 88.73999786376953
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 1399,
+            "X": 80.18000030517578,
+            "Y": 88.73999786376953
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 2886,
+            "X": 55.5099983215332,
+            "Y": 82.7699966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 2953,
+            "X": 55.5099983215332,
+            "Y": 82.7699966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 3773,
+            "X": 42.150001525878906,
+            "Y": 70.48999786376953
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 3872,
+            "X": 42.150001525878906,
+            "Y": 70.48999786376953
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 5597,
+            "X": 49.31999969482422,
+            "Y": 83
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 5721,
+            "X": 49.31999969482422,
+            "Y": 83
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 7296,
+            "X": 69.33000183105469,
+            "Y": 24.110000610351562
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 7471,
+            "X": 69.33000183105469,
+            "Y": 24.110000610351562
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 8354,
+            "X": 78.81999969482422,
+            "Y": 9.180000305175781
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 8505,
+            "X": 78.81999969482422,
+            "Y": 9.180000305175781
+        }
+    ],
+    "LoopDuration": 0,
+    "LoopInterval": 0,
+    "LoopIterations": 1,
+    "LoopType": "TillLoopNumber",
+    "MacroSchemaVersion": 3,
+    "MergeConfigurations": [
+    ],
+    "RestartPlayer": false,
+    "RestartPlayerAfterMinutes": 60,
+    "Shortcut": "",
+    "StopOnHomeScreen": false
+}

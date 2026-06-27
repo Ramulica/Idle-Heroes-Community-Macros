@@ -1,0 +1,81 @@
+{
+    "Acceleration": 1,
+    "CreationTime": "20260218T215253",
+    "DoNotShowWindowOnFinish": false,
+    "Events": [
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 1944,
+            "X": 28.020000457763672,
+            "Y": 57.290000915527344
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 2026,
+            "X": 28.020000457763672,
+            "Y": 57.18000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 2045,
+            "X": 28.020000457763672,
+            "Y": 57.18000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 3103,
+            "X": 49.439998626708984,
+            "Y": 85.29000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 3165,
+            "X": 49.439998626708984,
+            "Y": 85.29000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 65429,
+            "X": 58.70000076293945,
+            "Y": 83.41999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 65488,
+            "X": 58.70000076293945,
+            "Y": 83.41999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 67793,
+            "X": 52.709999084472656,
+            "Y": 84.62999725341797
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 67928,
+            "X": 52.709999084472656,
+            "Y": 84.62999725341797
+        }
+    ],
+    "LoopDuration": 0,
+    "LoopInterval": 0,
+    "LoopIterations": 100,
+    "LoopType": "TillLoopNumber",
+    "MacroSchemaVersion": 3,
+    "MergeConfigurations": [
+    ],
+    "RestartPlayer": false,
+    "RestartPlayerAfterMinutes": 60,
+    "Shortcut": "",
+    "StopOnHomeScreen": false
+}
