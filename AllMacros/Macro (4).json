@@ -1,0 +1,88 @@
+{
+    "Acceleration": 1,
+    "CreationTime": "20260206T133237",
+    "DoNotShowWindowOnFinish": false,
+    "Events": [
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 1711,
+            "X": 54.720001220703125,
+            "Y": 80.69000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 1779,
+            "X": 54.720001220703125,
+            "Y": 80.69000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 2919,
+            "X": 54.720001220703125,
+            "Y": 80.69000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 3028,
+            "X": 54.720001220703125,
+            "Y": 80.69000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 4302,
+            "X": 52.279998779296875,
+            "Y": 61.81999969482422
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 4380,
+            "X": 52.279998779296875,
+            "Y": 61.81999969482422
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 5503,
+            "X": 81.75,
+            "Y": 41.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 5585,
+            "X": 81.75,
+            "Y": 41.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 27778,
+            "X": 52.709999084472656,
+            "Y": 79.38999938964844
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 27879,
+            "X": 52.709999084472656,
+            "Y": 79.38999938964844
+        }
+    ],
+    "LoopDuration": 0,
+    "LoopInterval": 0,
+    "LoopIterations": 10,
+    "LoopType": "TillLoopNumber",
+    "MacroSchemaVersion": 3,
+    "MergeConfigurations": [
+    ],
+    "RestartPlayer": false,
+    "RestartPlayerAfterMinutes": 60,
+    "Shortcut": "",
+    "StopOnHomeScreen": false
+}

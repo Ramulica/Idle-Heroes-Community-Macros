@@ -1,0 +1,60 @@
+{
+    "Acceleration": 1,
+    "CreationTime": "20260608T184249",
+    "DoNotShowWindowOnFinish": false,
+    "Events": [
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 1204,
+            "X": 4.449999809265137,
+            "Y": 44.88999938964844
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 1249,
+            "X": 4.449999809265137,
+            "Y": 44.88999938964844
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 2296,
+            "X": 24.739999771118164,
+            "Y": 19.6299991607666
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 2372,
+            "X": 24.739999771118164,
+            "Y": 19.6299991607666
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 5276,
+            "X": 82.36000061035156,
+            "Y": 12.390000343322754
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 5351,
+            "X": 82.36000061035156,
+            "Y": 12.390000343322754
+        }
+    ],
+    "LoopDuration": 0,
+    "LoopInterval": 0,
+    "LoopIterations": 1,
+    "LoopType": "TillLoopNumber",
+    "MacroSchemaVersion": 3,
+    "MergeConfigurations": [
+    ],
+    "RestartPlayer": false,
+    "RestartPlayerAfterMinutes": 60,
+    "Shortcut": "",
+    "StopOnHomeScreen": false
+}

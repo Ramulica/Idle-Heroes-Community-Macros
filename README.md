@@ -36,6 +36,10 @@ Click any folder below to jump straight into the macros and configs for that par
 
 **Building-block catalog** — every action, navigation, and utility macro indexed by category (use with [Move From A → B](./MoveFromAToB/) for routing).
 
+### [All Macros](./AllMacros/)
+
+**Flat folder** — all 101 macro `.json` files in one place for quick import or download (mirrors the categorized folders above).
+
 ### [Arena Battles](./ArenaBattles/)
 
 PvP-style arenas and competitive ladders:
