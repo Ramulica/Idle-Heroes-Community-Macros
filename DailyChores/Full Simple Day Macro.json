@@ -84545,6 +84545,6 @@
     ],
     "RestartPlayer": false,
     "RestartPlayerAfterMinutes": 60,
-    "Shortcut": "",
+    "Shortcut": "Alt + D",
     "StopOnHomeScreen": false
 }
