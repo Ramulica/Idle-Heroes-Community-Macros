@@ -88,6 +88,8 @@ If the game **crashes** during long runs, raise BlueStacks **CPU allocation** in
 
 **Note:** Assigning **6 cores** only works if your CPU has **6 or more physical/logical cores**. More cores for BlueStacks means **less CPU left for the rest of your PC** — you’re shifting performance from Windows into the emulator.
 
+**Tip:** If you’re running macros, it’s recommended to **bump cores up while the macro runs**, then **switch back to your usual performance settings** when you’re done.
+
 Some settings apply on the **next BlueStacks launch** — save and restart if needed.
 
 ---
