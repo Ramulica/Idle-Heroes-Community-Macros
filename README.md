@@ -38,7 +38,7 @@ Click any folder below to jump straight into the macros and configs for that par
 
 ### [All Macros](./AllMacros/)
 
-**Flat folder** — all 101 macro `.json` files in one place for quick import or download (mirrors the categorized folders above).
+**Flat folder** — all macro `.json` files in one place for quick import or download (mirrors the categorized folders above).
 
 ### [Arena Battles](./ArenaBattles/)
 
@@ -48,14 +48,13 @@ PvP-style arenas and competitive ladders:
 - [Inter-Dimensional Arena](./ArenaBattles/InterDimensionalArena/)
 - [Trial of the Champion](./ArenaBattles/TrialOfTheChampion/)
 
-### [Fantasy Factory](./FantasyFactory/)
+### [Fort Defense](./FantasyFactory_FortDefense/)
 
 Crafting, fort scenarios, and factory-side content:
 
-- [Flora's Adventure](./FantasyFactory/FantasyFactory_FlorasAdventure/)
-- [Fort Defense](./FantasyFactory/FantasyFactory_FortDefense/)
+- [Fort Defense](./FantasyFactory_FortDefense/) — **lag controls**, chapter clears, hammer / tech farm
+- [Flora's Adventure](./FantasyFactory_FantasyFactory_FlorasAdventure/)
 - [Heroic Breakout](./FantasyFactory/FantasyFactory_HeroicBreakout/)
-- Additional macros may also live at the [Fantasy Factory root](./FantasyFactory/) as shared `.json` / `.cfg` helpers—browse there if you don't see what you need in a subfolder yet.
 
 ### [Game Mode Battles](./GameModeBattles/)
 

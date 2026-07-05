@@ -11,13 +11,14 @@ This is the same **merge pattern** shown in the [Daily Chores merge guide](../RE
 
 ## Fort Defense / hammers
 
-The Fort side uses:
+See the full guide: **[Fort Defense README](../../FantasyFactory/FantasyFactory_FortDefense/README.md)**
 
-- [`Farm Fort Tech.json`](../../FantasyFactory/FantasyFactory_FortDefense/Farm%20Fort%20Tech.json)
-- [`fort defens.json`](../../FantasyFactory/FantasyFactory_FortDefense/fort%20defens.json)
-- Optional: [`Full Fort Tech Farm.json`](../../FantasyFactory/FantasyFactory_FortDefense/Full%20Fort%20Tech%20Farm.json)
+| Macro | Role |
+|-------|------|
+| [`Farm Fort Tech.json`](../../FantasyFactory/FantasyFactory_FortDefense/Farm%20Fort%20Tech.json) | Trial Mode 1 hammer farm (no auto-upgrade) |
+| [`Full Fort Tech Farm.json`](../../FantasyFactory/FantasyFactory_FortDefense/Full%20Fort%20Tech%20Farm.json) | Hammer farm + automatic fort-tech upgrades |
 
-**Hammer farming notes** — detailed hammer routing / upgrade thresholds will be documented here once the Fort Defense README section is finalized. For now, ensure your **Fort Defense board** matches your recorded layout and that **`FortDefens.cfg`** is loaded if you use coordinate-sensitive taps.
+Load a **lag control scheme** (`MidLagFortDefensControls.cfg` recommended) before running coordinate-sensitive fort macros.
 
 ## Flora’s Workshop (same rules as Flora README)
 

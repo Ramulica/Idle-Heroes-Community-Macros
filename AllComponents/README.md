@@ -144,11 +144,14 @@ Screen routing macros. Naming pattern: **`Origin - Destination`** or **`Game - M
 ### [Fort Defense](../FantasyFactory/FantasyFactory_FortDefense/)
 | Macro | Control | Role |
 |-------|---------|------|
-| `fort defens.json` | `FortDefens.cfg` | Fort Defense battles |
-| `Farm Fort Tech.json` | — | Farm fort tech nodes |
-| `Fort Tech Upgrade.json` | — | Upgrade fort tech |
-| `Fort Tech Upgrade 19.json` | — | Level-19 upgrade path |
-| `Full Fort Tech Farm.json` | — | Merged fort tech farm |
+| `Full CH 1 and 2 Normal Levels.json` | `MidLagFortDefensControls.cfg` (etc.) | Auto-clear chapters 1–2 normal levels |
+| `Full CH 3 and 4  Normal Levels.json` | Lag controls (Low → Extreme) | Auto-clear chapters 3–4 normal levels |
+| `Phase1 Tower Defens LV1.json` · `Phase 2 FortDefens lv1.json` | — | Early levels before abilities |
+| `Farm Fort Tech.json` | — | Hammer farm (Trial Mode 1, no auto-upgrade) |
+| `Full Fort Tech Farm.json` | — | Hammer farm + auto fort-tech upgrades |
+| `Full Fantasy Arcade Farm.json` | — | Fort + Flora merged factory loop |
+
+See **[Fort Defense README](../FantasyFactory/FantasyFactory_FortDefense/README.md)** for lag control setup and usage.
 
 ### [Heroic Breakout](../FantasyFactory/FantasyFactory_HeroicBreakout/)
 | File | Role |
