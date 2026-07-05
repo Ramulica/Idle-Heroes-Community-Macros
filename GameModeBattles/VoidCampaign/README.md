@@ -7,3 +7,7 @@
 | `Locate Void Boss 1.json` … `6.json` | Helpers to find bosses on the map |
 
 Navigation: [`game - Campaign`](../MoveFromAToB/game%20-%20Campaign.json), [`Game - Void Gate`](../MoveFromAToB/Game%20-%20Void%20Gate.json).
+---
+
+If these tools save you time and help you skip the grind, please consider **dropping a ⭐ Star on this repository** on GitHub—it helps others discover the project and keeps motivation high for everyone contributing!
+

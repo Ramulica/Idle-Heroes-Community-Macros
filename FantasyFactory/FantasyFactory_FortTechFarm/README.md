@@ -45,3 +45,7 @@ Follow the **[import tutorial in the main README](../../README.md#-how-to-import
 - [Fort Defense — lag controls & level clears](../FantasyFactory_FortDefense/README.md)
 - [Full Fantasy Arcade Farm (Daily Chores)](../../DailyChores/Full%20Fantasy%20Arcade%20Farm/)
 - [Flora’s Adventure](../FantasyFactory_FlorasAdventure/README.md)
+---
+
+If these tools save you time and help you skip the grind, please consider **dropping a ⭐ Star on this repository** on GitHub—it helps others discover the project and keeps motivation high for everyone contributing!
+

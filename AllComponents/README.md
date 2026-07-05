@@ -181,3 +181,7 @@ See **[Fort Tech Farm README](../FantasyFactory/FantasyFactory_FortTechFarm/READ
 See **[Daily Chores — Macro Merge guide](../DailyChores/README.md#-how-to-build-a-macro-from-other-macros-bluestacks-merge)** for screenshots and step-by-step BlueStacks **Merge** instructions.
 
 **Rule of thumb:** `Game - X` → `X - Submode` → **action macro** → `go back` → next mode.
+---
+
+If these tools save you time and help you skip the grind, please consider **dropping a ⭐ Star on this repository** on GitHub—it helps others discover the project and keeps motivation high for everyone contributing!
+

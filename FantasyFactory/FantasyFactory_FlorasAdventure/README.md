@@ -98,3 +98,7 @@ https://github.com/Ramulica/Idle-Heroes-Community-Macros/raw/master/docs/videos/
 2. GitHub uploads it to **`user-images.githubusercontent.com`** automatically. Paste that naked URL alone on its own line and the native controls appear—the **maximum-quality copy** stays in [`FlorasAdventureMacroDemo.mp4`](https://github.com/Ramulica/Idle-Heroes-Community-Macros/raw/master/docs/videos/FlorasAdventureMacroDemo.mp4), and [`FlorasAdventureMacroDemo.web.mp4`](https://github.com/Ramulica/Idle-Heroes-Community-Macros/raw/master/docs/videos/FlorasAdventureMacroDemo.web.mp4) mirrors the trimmed upload version.
 
 Happy merging—and may your merges always resolve five-wide without RNG grief! 🌸
+---
+
+If these tools save you time and help you skip the grind, please consider **dropping a ⭐ Star on this repository** on GitHub—it helps others discover the project and keeps motivation high for everyone contributing!
+

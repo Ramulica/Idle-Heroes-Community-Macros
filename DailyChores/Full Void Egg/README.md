@@ -27,3 +27,7 @@ Navigation helpers: [`MoveFromAToB/Game - Void Gate.json`](../../MoveFromAToB/Ga
 [`Full Void Egg.json`](./Full%20Void%20Egg.json)
 
 > ⚠️ Macros can sometimes fail if bag space is full, an egg tier needs manual selection, or integration UI changes after a patch.
+---
+
+If these tools save you time and help you skip the grind, please consider **dropping a ⭐ Star on this repository** on GitHub—it helps others discover the project and keeps motivation high for everyone contributing!
+

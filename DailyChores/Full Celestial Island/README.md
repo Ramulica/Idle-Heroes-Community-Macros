@@ -20,3 +20,7 @@ This **Full** macro is a merge of smaller pieces. Components live under:
 [`Full Celestial Island .json`](./Full%20Celestial%20Island%20.json)
 
 > ⚠️ Macros can sometimes fail if daffodils are depleted, islands are on cooldown, or a new island UI layout appears after a patch.
+---
+
+If these tools save you time and help you skip the grind, please consider **dropping a ⭐ Star on this repository** on GitHub—it helps others discover the project and keeps motivation high for everyone contributing!
+

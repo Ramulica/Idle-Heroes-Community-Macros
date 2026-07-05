@@ -22,3 +22,7 @@ Recommended before first unattended run:
 [`claim 2 idle masters.json`](./claim%202%20idle%20masters.json)
 
 > ⚠️ Macros can sometimes fail if Idle Master opens an unexpected screen, combat doesn’t skip, or a popup interrupts the sequence.
+---
+
+If these tools save you time and help you skip the grind, please consider **dropping a ⭐ Star on this repository** on GitHub—it helps others discover the project and keeps motivation high for everyone contributing!
+

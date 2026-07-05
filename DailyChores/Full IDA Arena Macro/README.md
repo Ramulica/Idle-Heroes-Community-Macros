@@ -21,3 +21,7 @@ IDA is a **cross-server PvP** ladder; even if you don’t push rank hard, **dail
 [`Full IDA Arena Macro.json`](./Full%20IDA%20Arena%20Macro.json)
 
 > ⚠️ Macros can sometimes fail if defense teams change slot order, free attempts are exhausted, or an arena event overlay blocks taps.
+---
+
+If these tools save you time and help you skip the grind, please consider **dropping a ⭐ Star on this repository** on GitHub—it helps others discover the project and keeps motivation high for everyone contributing!
+

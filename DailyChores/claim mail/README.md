@@ -19,3 +19,7 @@ Opens the in-game **Mail** menu and claims **all existing** messages and attache
 [`claim mail.json`](./claim%20mail.json)
 
 > ⚠️ Macros can sometimes fail if a full inventory blocks a reward, a new event popup appears, or UI layout shifts after a patch.
+---
+
+If these tools save you time and help you skip the grind, please consider **dropping a ⭐ Star on this repository** on GitHub—it helps others discover the project and keeps motivation high for everyone contributing!
+

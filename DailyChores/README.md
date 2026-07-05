@@ -107,3 +107,7 @@ Browse the full list of **navigation** macros in **[Move From A → B](../MoveFr
 - [Flora’s Adventure strategy](../FantasyFactory/FantasyFactory_FlorasAdventure/README.md) — board setup for workshop macros used inside Fantasy Arcade Farm
 
 Happy unattended dailies — and remember to glance at the screen now and then. ☕
+---
+
+If these tools save you time and help you skip the grind, please consider **dropping a ⭐ Star on this repository** on GitHub—it helps others discover the project and keeps motivation high for everyone contributing!
+

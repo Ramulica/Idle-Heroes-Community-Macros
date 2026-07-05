@@ -18,3 +18,7 @@ The **Soul Temple** is where **Soul Awakening** happens — a major power system
 [`Full Claim Soul Temple Tasks.json`](./Full%20Claim%20Soul%20Temple%20Tasks.json)
 
 > ⚠️ Macros can sometimes fail if temple UI tabs move, unclaimed rewards need manual confirmation, or an event popup covers the altar screen.
+---
+
+If these tools save you time and help you skip the grind, please consider **dropping a ⭐ Star on this repository** on GitHub—it helps others discover the project and keeps motivation high for everyone contributing!
+

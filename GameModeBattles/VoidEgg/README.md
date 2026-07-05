@@ -8,3 +8,7 @@ Building blocks for [`Full Void Egg`](../DailyChores/Full%20Void%20Egg/). Naviga
 | `allEggClaim.json` | Batch claim |
 | `eggIntegration.json` | Integrate available eggs |
 | `cancel Egg.json` | Dismiss / cancel egg UI |
+---
+
+If these tools save you time and help you skip the grind, please consider **dropping a ⭐ Star on this repository** on GitHub—it helps others discover the project and keeps motivation high for everyone contributing!
+

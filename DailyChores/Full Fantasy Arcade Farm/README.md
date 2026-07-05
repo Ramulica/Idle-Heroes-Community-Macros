@@ -47,3 +47,7 @@ Macros used in this merge:
 [`Full Fantasy Arcade Farm.json`](./Full%20Fantasy%20Arcade%20Farm.json)
 
 > ⚠️ Macros can sometimes fail if workshop tiles drift, fort tech nodes move, or a factory event popup blocks the hub.
+---
+
+If these tools save you time and help you skip the grind, please consider **dropping a ⭐ Star on this repository** on GitHub—it helps others discover the project and keeps motivation high for everyone contributing!
+

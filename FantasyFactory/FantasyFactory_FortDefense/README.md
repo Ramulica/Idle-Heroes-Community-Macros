@@ -100,3 +100,7 @@ Some settings apply on the **next BlueStacks launch** — save and restart if ne
 - [Import macros & controls](../../README.md#-how-to-import-macros--controls)
 - [Move From A → B — `Fantasy Factory - Fort Defens`](../../MoveFromAToB/Fantasy%20Factory%20-%20Fort%20Defens.json)
 - [All Components catalog](../../AllComponents/README.md)
+---
+
+If these tools save you time and help you skip the grind, please consider **dropping a ⭐ Star on this repository** on GitHub—it helps others discover the project and keeps motivation high for everyone contributing!
+
