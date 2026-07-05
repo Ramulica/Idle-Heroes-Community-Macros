@@ -11,14 +11,13 @@ This is the same **merge pattern** shown in the [Daily Chores merge guide](../RE
 
 ## Fort Defense / hammers
 
-See the full guide: **[Fort Defense README](../../FantasyFactory/FantasyFactory_FortDefense/README.md)**
+See the full guide: **[Fort Tech Farm README](../../FantasyFactory/FantasyFactory_FortTechFarm/README.md)**
 
 | Macro | Role |
 |-------|------|
-| [`Farm Fort Tech.json`](../../FantasyFactory/FantasyFactory_FortDefense/Farm%20Fort%20Tech.json) | Trial Mode 1 hammer farm (no auto-upgrade) |
-| [`Full Fort Tech Farm.json`](../../FantasyFactory/FantasyFactory_FortDefense/Full%20Fort%20Tech%20Farm.json) | Hammer farm + automatic fort-tech upgrades |
-
-Load a **lag control scheme** (`MidLagFortDefensControls.cfg` recommended) before running coordinate-sensitive fort macros.
+| [`Farm Fort Tech.json`](../../FantasyFactory/FantasyFactory_FortTechFarm/Farm%20Fort%20Tech.json) | Trial Mode 1 hammer farm (no auto-upgrade) |
+| [`Full Fort Tech Farm.json`](../../FantasyFactory/FantasyFactory_FortTechFarm/Full%20Fort%20Tech%20Farm.json) | Hammer farm + automatic fort-tech upgrades |
+| [`Full Fantasy Arcade Farm.json`](../../FantasyFactory/FantasyFactory_FortTechFarm/Full%20Fantasy%20Arcade%20Farm.json) | Fort + Flora merged loop |
 
 ## Flora’s Workshop (same rules as Flora README)
 

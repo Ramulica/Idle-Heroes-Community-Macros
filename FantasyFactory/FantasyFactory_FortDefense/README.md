@@ -1,6 +1,6 @@
 # 🏰 Fort Defense — macros & lag controls
 
-Automated **normal-level clears** and **hammer / fort-tech farming** for Fantasy Factory Fort Defense.
+Automated **normal-level clears** for Fantasy Factory Fort Defense. For **hammer / fort-tech farming**, see **[Fort Tech Farm](../FantasyFactory_FortTechFarm/README.md)**.
 
 > ⚠️ Macros can sometimes fail — usually from a **game crash**, not the script itself. See [performance notes](#performance--game-crashes) below.
 
@@ -18,9 +18,8 @@ Automated **normal-level clears** and **hammer / fort-tech farming** for Fantasy
 | `Phase 2 FortDefens lv1.json` | Macro | Next early levels **before** abilities |
 | `Full CH 1 and 2 Normal Levels.json` | Macro | Auto-clear **all normal levels** in chapters 1–2 |
 | `Full CH 3 and 4  Normal Levels.json` | Macro | Auto-clear **all normal levels** in chapters 3–4 |
-| `Farm Fort Tech.json` | Macro | Farm hammers via Trial Mode 1 (no auto-upgrade) |
-| `Full Fort Tech Farm.json` | Macro | Farm hammers **and** upgrade fort tech automatically |
-| `Full Fantasy Arcade Farm.json` | Macro | Full factory loop — Fort + Flora’s Workshop |
+
+**Hammer / fort-tech farming** → [`FantasyFactory_FortTechFarm/`](../FantasyFactory_FortTechFarm/README.md)
 
 ---
 
@@ -56,7 +55,7 @@ Import these from this folder (same [import guide](../../README.md#-how-to-impor
 
 These clear **every normal level** in those chapters. Fort tech upgrades are **not required**, but upgraded tech makes runs faster and smoother.
 
-**Early levels without abilities** — beat manually (or use Phase 1 / Phase 2 macros) until snakes are unlocked.
+You need to do the **first level manually** — you don't have access to abilities yet. From **level 2, chapter 1** onward you can use the macros and controls.
 
 ---
 
@@ -69,21 +68,9 @@ These clear **every normal level** in those chapters. Fort tech upgrades are **n
 
 ### Notes
 
-- Levels **before** you have abilities must be done **manually** (or with `Phase1` / `Phase2` macros).
+- You need to do the **first level manually** — you don't have access to abilities yet. From **level 2, chapter 1** onward you can use the macros and controls.
 - You must **select snake first** each run — the macro assumes snakes are ability slot 1.
 - Crashes are rare but possible; see below.
-
----
-
-## 🔨 Fort tech & hammer farming
-
-Both farm macros **start from the Fort Defense menu** (not the main map).
-
-| Macro | What it does |
-|-------|----------------|
-| **`Farm Fort Tech.json`** | Enters **Trial Mode 1**, farms hammers, exits. Does **not** spend hammers on upgrades. Trial Mode 1 should be **100% complete** for maximum hammer income. |
-| **`Full Fort Tech Farm.json`** | Same hammer loop **plus automatic fort-tech upgrades** when you have enough hammers. |
-| **`Full Fantasy Arcade Farm.json`** | Full Fantasy Factory pass — Fort Defense farm **and** Flora’s Workshop production. See also [Flora’s Adventure](../FantasyFactory_FlorasAdventure/README.md). |
 
 ---
 
@@ -99,13 +86,15 @@ If the game **crashes** during long runs, raise BlueStacks **CPU allocation** in
 | **High Lag** | **6 cores** |
 | **Extreme Lag** | Top-tier hardware — “NASA-grade server” territory |
 
+**Note:** Assigning **6 cores** only works if your CPU has **6 or more physical/logical cores**. More cores for BlueStacks means **less CPU left for the rest of your PC** — you’re shifting performance from Windows into the emulator.
+
 Some settings apply on the **next BlueStacks launch** — save and restart if needed.
 
 ---
 
 ## 🔗 Related
 
+- [Fort Tech & hammer farming](../FantasyFactory_FortTechFarm/README.md)
 - [Import macros & controls](../../README.md#-how-to-import-macros--controls)
 - [Move From A → B — `Fantasy Factory - Fort Defens`](../../MoveFromAToB/Fantasy%20Factory%20-%20Fort%20Defens.json)
-- [Full Fantasy Arcade Farm (Daily Chores)](../../DailyChores/Full%20Fantasy%20Arcade%20Farm/)
 - [All Components catalog](../../AllComponents/README.md)

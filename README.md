@@ -48,11 +48,12 @@ PvP-style arenas and competitive ladders:
 - [Inter-Dimensional Arena](./ArenaBattles/InterDimensionalArena/)
 - [Trial of the Champion](./ArenaBattles/TrialOfTheChampion/)
 
-### [Fort Defense](./FantasyFactory_FortDefense/)
+### [Fantasy Factory](./FantasyFactory/)
 
 Crafting, fort scenarios, and factory-side content:
 
-- [Fort Defense](./FantasyFactory_FortDefense/) — **lag controls**, chapter clears, hammer / tech farm
+- [Fort Defense](./FantasyFactory_FortDefense/) — lag controls & chapter level clears
+- [Fort Tech Farm](./FantasyFactory_FortTechFarm/) — hammer farming & fort-tech upgrades
 - [Flora's Adventure](./FantasyFactory_FantasyFactory_FlorasAdventure/)
 - [Heroic Breakout](./FantasyFactory/FantasyFactory_HeroicBreakout/)
 
