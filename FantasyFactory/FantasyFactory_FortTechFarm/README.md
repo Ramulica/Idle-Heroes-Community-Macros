@@ -30,6 +30,8 @@ All farm macros **start from the Fort Defense menu** (not the main map).
 
 `Farm Fort Tech` and `Full Fort Tech Farm` both route through **Trial Mode 1**. Complete it to **100%** first so you get the **maximum number of hammers** per run.
 
+**How to clear Trial Mode Ch.1 with macros** — full walkthrough (phase 1 → phase 2, abilities, Vesa/Aspen prep): **[Fort Defense — Trial Mode Ch.1 guide](../FantasyFactory_FortDefense/README.md#-trial-mode--chapter-1-guide)**.
+
 ---
 
 ## 📥 Import

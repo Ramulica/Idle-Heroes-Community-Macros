@@ -146,7 +146,7 @@ Screen routing macros. Naming pattern: **`Origin - Destination`** or **`Game - M
 |-------|---------|------|
 | `Full CH 1 and 2 Normal Levels.json` | Lag controls (Low → Extreme) | Auto-clear chapters 1–2 normal levels |
 | `Full CH 3 and 4  Normal Levels.json` | Lag controls (Low → Extreme) | Auto-clear chapters 3–4 normal levels |
-| `Phase1 Tower Defens LV1.json` · `Phase 2 FortDefens lv1.json` | — | Early levels before abilities |
+| `Phase1 Tower Defens LV1.json` · `Phase 2 FortDefens lv1.json` | — | Trial Mode Ch.1 — phase 1 then phase 2 |
 
 See **[Fort Defense README](../FantasyFactory/FantasyFactory_FortDefense/README.md)** for lag control setup and usage.
 
