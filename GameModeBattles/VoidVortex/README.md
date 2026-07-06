@@ -68,7 +68,7 @@ https://github.com/Ramulica/Idle-Heroes-Community-Macros/raw/master/docs/videos/
 
 ### Smoother MP4 with native controls?
 
-If the URL above only shows as a link, attach a trimmed copy via the README editor on **github.com** (GitHub uploads to `user-images.githubusercontent.com`), then paste that URL on its own line—same trick described in **[Flora’s Adventure README](../../FantasyFactory/FantasyFactory_FlorasAdventure/README.md#want-the-smoother-mp4-with-native-controls)**.
+If the URL above only shows as a link, attach a trimmed copy via the README editor on **github.com** (GitHub uploads to `user-images.githubusercontent.com`), then paste that URL on its own line—same trick described in **[Flora’s Adventure README](../../FantasyFactory/FantasyFactory_FlorasAdventure/#want-the-smoother-mp4-with-native-controls)**.
 ---
 
 If these tools save you time and help you skip the grind, please consider **dropping a ⭐ Star on this repository** on GitHub—it helps others discover the project and keeps motivation high for everyone contributing!

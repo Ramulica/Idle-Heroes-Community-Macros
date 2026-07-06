@@ -7,7 +7,7 @@ Opens the in-game **Mail** menu and claims **all existing** messages and attache
 ## When to use it
 
 - Start of your daily routine (before other macros generate new mail).
-- **End** of a long merged daily macro — mail often arrives *while* other tasks run, so many players run **claim mail twice** in their merge (see [Daily Chores README](../README.md)).
+- **End** of a long merged daily macro — mail often arrives *while* other tasks run, so many players run **claim mail twice** in their merge (see [Daily Chores README](../)).
 
 ## Setup
 

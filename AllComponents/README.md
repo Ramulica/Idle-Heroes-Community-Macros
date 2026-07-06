@@ -91,7 +91,7 @@ Screen routing macros. Naming pattern: **`Origin - Destination`** or **`Game - M
 ### [Void Vortex](../GameModeBattles/VoidVortex/)
 | Macro | Control | Role |
 |-------|---------|------|
-| `Void Vortex.json` | `voidVortex.cfg` | Planet smash loop — see [README](../GameModeBattles/VoidVortex/README.md) |
+| `Void Vortex.json` | `voidVortex.cfg` | Planet smash loop — see [README](../GameModeBattles/VoidVortex/) |
 
 ### [Celestial Island](../GameModeBattles/CelestialIsland/)
 | Macro | Role |
@@ -148,7 +148,7 @@ Screen routing macros. Naming pattern: **`Origin - Destination`** or **`Game - M
 | `Full CH 3 and 4  Normal Levels.json` | Lag controls (Low → Extreme) | Auto-clear chapters 3–4 normal levels |
 | `Phase1 Tower Defens LV1.json` · `Phase 2 FortDefens lv1.json` | — | Trial Mode Ch.1 — phase 1 then phase 2 |
 
-See **[Fort Defense README](../FantasyFactory/FantasyFactory_FortDefense/README.md)** for lag control setup and usage.
+See **[Fort Defense README](../FantasyFactory/FantasyFactory_FortDefense/)** for lag control setup and usage.
 
 ### [Fort Tech Farm](../FantasyFactory/FantasyFactory_FortTechFarm/)
 | Macro | Role |
@@ -157,7 +157,7 @@ See **[Fort Defense README](../FantasyFactory/FantasyFactory_FortDefense/README.
 | `Full Fort Tech Farm.json` | Hammer farm + automatic fort-tech upgrades |
 | `Full Fantasy Arcade Farm.json` | Fort + Flora merged factory loop |
 
-See **[Fort Tech Farm README](../FantasyFactory/FantasyFactory_FortTechFarm/README.md)**.
+See **[Fort Tech Farm README](../FantasyFactory/FantasyFactory_FortTechFarm/)**.
 
 ### [Heroic Breakout](../FantasyFactory/FantasyFactory_HeroicBreakout/)
 | File | Role |
@@ -178,7 +178,7 @@ See **[Fort Tech Farm README](../FantasyFactory/FantasyFactory_FortTechFarm/READ
 
 ## 🔧 How to combine components
 
-See **[Daily Chores — Macro Merge guide](../DailyChores/README.md#-how-to-build-a-macro-from-other-macros-bluestacks-merge)** for screenshots and step-by-step BlueStacks **Merge** instructions.
+See **[Daily Chores — Macro Merge guide](../DailyChores/#-how-to-build-a-macro-from-other-macros-bluestacks-merge)** for screenshots and step-by-step BlueStacks **Merge** instructions.
 
 **Rule of thumb:** `Game - X` → `X - Submode` → **action macro** → `go back` → next mode.
 ---

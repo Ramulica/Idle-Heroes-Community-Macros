@@ -96,15 +96,15 @@ Rough flow:
 6. `buy bread`, `floras adventure claim house`, `Flora's Workshop` — workshop actions.
 7. `go back` × 3 — unwind to a neutral screen.
 
-Browse the full list of **navigation** macros in **[Move From A → B](../MoveFromAToB/README.md)** and **building blocks** in **[All Components](../AllComponents/README.md)**.
+Browse the full list of **navigation** macros in **[Move From A → B](../MoveFromAToB/)** and **building blocks** in **[All Components](../AllComponents/)**.
 
 ---
 
 ## 📚 Related Docs
 
 - [Import macros & controls (main README)](../README.md#how-to-import-macros--controls)
-- [All Components catalog](../AllComponents/README.md)
-- [Flora’s Adventure strategy](../FantasyFactory/FantasyFactory_FlorasAdventure/README.md) — board setup for workshop macros used inside Fantasy Arcade Farm
+- [All Components catalog](../AllComponents/)
+- [Flora’s Adventure strategy](../FantasyFactory/FantasyFactory_FlorasAdventure/) — board setup for workshop macros used inside Fantasy Arcade Farm
 
 Happy unattended dailies — and remember to glance at the screen now and then. ☕
 ---

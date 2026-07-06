@@ -22,65 +22,65 @@ Everything here is meant to be shared, improved, and maintained together as the 
 
 Click any folder below to jump straight into the macros and configs for that part of the game.
 
-### [Daily Chores](./DailyChores/README.md)
+### [Daily Chores](./DailyChores/)
 
 **One-tap morning routine** — pre-merged dailies plus a guide to building your own chains with BlueStacks **Macro Merge**:
 
 - [Full Simple Day Macro](./DailyChores/Full%20Simple%20Day%20Macro.json) — master daily bundle
-- [claim mail](./DailyChores/claim%20mail/README.md) · [claim 2 idle masters](./DailyChores/claim%202%20idle%20masters/README.md)
-- [Full Celestial Island](./DailyChores/Full%20Celestial%20Island/README.md) · [Full IDA Arena Macro](./DailyChores/Full%20IDA%20Arena%20Macro/README.md)
-- [Full Claim Soul Temple Tasks](./DailyChores/Full%20Claim%20Soul%20Temple%20Tasks/README.md) · [Full Void Egg](./DailyChores/Full%20Void%20Egg/README.md)
-- [Full Fantasy Arcade Farm](./DailyChores/Full%20Fantasy%20Arcade%20Farm/README.md)
+- [claim mail](./DailyChores/claim%20mail/) · [claim 2 idle masters](./DailyChores/claim%202%20idle%20masters/)
+- [Full Celestial Island](./DailyChores/Full%20Celestial%20Island/) · [Full IDA Arena Macro](./DailyChores/Full%20IDA%20Arena%20Macro/)
+- [Full Claim Soul Temple Tasks](./DailyChores/Full%20Claim%20Soul%20Temple%20Tasks/) · [Full Void Egg](./DailyChores/Full%20Void%20Egg/)
+- [Full Fantasy Arcade Farm](./DailyChores/Full%20Fantasy%20Arcade%20Farm/)
 
-### [All Components](./AllComponents/README.md)
+### [All Components](./AllComponents/)
 
 **Building-block catalog** — every action, navigation, and utility macro indexed by category (use with [Move From A → B](./MoveFromAToB/) for routing).
 
-### [All Macros](./AllMacros/README.md)
+### [All Macros](./AllMacros/)
 
 **Flat folder** — all macro `.json` files in one place for quick import or download (mirrors the categorized folders above).
 
-### [Arena Battles](./ArenaBattles/README.md)
+### [Arena Battles](./ArenaBattles/)
 
 PvP-style arenas and competitive ladders:
 
-- [Free Team-Up Arena](./ArenaBattles/FreeTeamUpArena/README.md)
-- [Inter-Dimensional Arena](./ArenaBattles/InterDimensionalArena/README.md)
-- [Trial of the Champion](./ArenaBattles/TrialOfTheChampion/README.md)
+- [Free Team-Up Arena](./ArenaBattles/FreeTeamUpArena/)
+- [Inter-Dimensional Arena](./ArenaBattles/InterDimensionalArena/)
+- [Trial of the Champion](./ArenaBattles/TrialOfTheChampion/)
 
-### [Fantasy Factory](./FantasyFactory/README.md)
+### [Fantasy Factory](./FantasyFactory/)
 
 Crafting, fort scenarios, and factory-side content:
 
-- [Fort Defense](./FantasyFactory/FantasyFactory_FortDefense/README.md) — lag controls & chapter level clears
-- [Fort Tech Farm](./FantasyFactory/FantasyFactory_FortTechFarm/README.md) — hammer farming & fort-tech upgrades
-- [Flora's Adventure](./FantasyFactory/FantasyFactory_FlorasAdventure/README.md)
-- [Heroic Breakout](./FantasyFactory/FantasyFactory_HeroicBreakout/README.md)
+- [Fort Defense](./FantasyFactory/FantasyFactory_FortDefense/) — lag controls & chapter level clears
+- [Fort Tech Farm](./FantasyFactory/FantasyFactory_FortTechFarm/) — hammer farming & fort-tech upgrades
+- [Flora's Adventure](./FantasyFactory/FantasyFactory_FlorasAdventure/)
+- [Heroic Breakout](./FantasyFactory/FantasyFactory_HeroicBreakout/)
 
-### [Game Mode Battles](./GameModeBattles/README.md)
+### [Game Mode Battles](./GameModeBattles/)
 
 Structured PvE/PvP-ish modes outside the core campaign loop:
 
-- [Void Campaign](./GameModeBattles/VoidCampaign/README.md)
-- [Void Vortex](./GameModeBattles/VoidVortex/README.md)
-- [Celestial Island](./GameModeBattles/CelestialIsland/README.md)
-- [Soul Temple](./GameModeBattles/SoulTemple/README.md)
-- [Void Egg](./GameModeBattles/VoidEgg/README.md)
-- [Tower of Dream](./GameModeBattles/TowerOfDream/README.md)
-- [Ethereal Realm](./GameModeBattles/EtherealRealm/README.md)
+- [Void Campaign](./GameModeBattles/VoidCampaign/)
+- [Void Vortex](./GameModeBattles/VoidVortex/)
+- [Celestial Island](./GameModeBattles/CelestialIsland/)
+- [Soul Temple](./GameModeBattles/SoulTemple/)
+- [Void Egg](./GameModeBattles/VoidEgg/)
+- [Tower of Dream](./GameModeBattles/TowerOfDream/)
+- [Ethereal Realm](./GameModeBattles/EtherealRealm/)
 
-### [Move From A → B](./MoveFromAToB/README.md)
+### [Move From A → B](./MoveFromAToB/)
 
-Routing and navigation macros that stitch screens together — names with a **hyphen** (`Game - Arena`, `Fantasy Factory - Fort Defens`) mean **go from A to B**. Pair with action macros via **[Macro Merge](./DailyChores/README.md#-how-to-build-a-macro-from-other-macros-bluestacks-merge)**.
+Routing and navigation macros that stitch screens together — names with a **hyphen** (`Game - Arena`, `Fantasy Factory - Fort Defens`) mean **go from A to B**. Pair with action macros via **[Macro Merge](./DailyChores/#-how-to-build-a-macro-from-other-macros-bluestacks-merge)**.
 
-### [Summons](./Summons/README.md)
+### [Summons](./Summons/)
 
 Summon-focused flows with careful pacing for inventory sanity:
 
-- [Cores of Origin](./Summons/CoresOfOrigin/README.md)
-- [Heroic Summons](./Summons/HeroicSummons/README.md)
-- [Prophet Orbs](./Summons/ProphetOrbs/README.md)
-- [Wishing Coins](./Summons/WishingCoins/README.md)
+- [Cores of Origin](./Summons/CoresOfOrigin/)
+- [Heroic Summons](./Summons/HeroicSummons/)
+- [Prophet Orbs](./Summons/ProphetOrbs/)
+- [Wishing Coins](./Summons/WishingCoins/)
 
 ---
 

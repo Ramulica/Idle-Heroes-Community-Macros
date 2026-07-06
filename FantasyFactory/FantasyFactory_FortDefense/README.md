@@ -1,6 +1,6 @@
 # 🏰 Fort Defense — macros & lag controls
 
-Automated **normal-level clears** for Fantasy Factory Fort Defense. For **hammer / fort-tech farming**, see **[Fort Tech Farm](../FantasyFactory_FortTechFarm/README.md)**.
+Automated **normal-level clears** for Fantasy Factory Fort Defense. For **hammer / fort-tech farming**, see **[Fort Tech Farm](../FantasyFactory_FortTechFarm/)**.
 
 > ⚠️ Macros can sometimes fail — usually from a **game crash**, not the script itself. See [performance notes](#performance--game-crashes) below.
 
@@ -19,7 +19,7 @@ Automated **normal-level clears** for Fantasy Factory Fort Defense. For **hammer
 | `Full CH 1 and 2 Normal Levels.json` | Macro | Auto-clear **all normal levels** in chapters 1–2 |
 | `Full CH 3 and 4  Normal Levels.json` | Macro | Auto-clear **all normal levels** in chapters 3–4 |
 
-**Hammer / fort-tech farming** → [`FantasyFactory_FortTechFarm/`](../FantasyFactory_FortTechFarm/README.md)
+**Hammer / fort-tech farming** → [`FantasyFactory_FortTechFarm/`](../FantasyFactory_FortTechFarm/)
 
 ---
 
@@ -139,7 +139,7 @@ Trial Mode gets **very hard** quickly. A macro is **not as good as a human** —
 
 **No guarantee** the macro reaches **wave 100**. Use it to grind hammers and progress, not as a perfect autopilot.
 
-For hammer-only farming after Ch.1 is set up, see **[Fort Tech Farm](../FantasyFactory_FortTechFarm/README.md)**.
+For hammer-only farming after Ch.1 is set up, see **[Fort Tech Farm](../FantasyFactory_FortTechFarm/)**.
 
 ---
 
@@ -165,10 +165,10 @@ Some settings apply on the **next BlueStacks launch** — save and restart if ne
 
 ## 🔗 Related
 
-- [Fort Tech & hammer farming](../FantasyFactory_FortTechFarm/README.md)
+- [Fort Tech & hammer farming](../FantasyFactory_FortTechFarm/)
 - [Import macros & controls](../../README.md#-how-to-import-macros--controls)
 - [Move From A → B — `Fantasy Factory - Fort Defens`](../../MoveFromAToB/Fantasy%20Factory%20-%20Fort%20Defens.json)
-- [All Components catalog](../../AllComponents/README.md)
+- [All Components catalog](../../AllComponents/)
 
 ---
 

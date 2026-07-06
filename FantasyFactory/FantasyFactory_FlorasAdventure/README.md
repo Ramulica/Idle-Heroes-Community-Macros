@@ -52,7 +52,7 @@ Resolution / emulator scaling changes invalidate taps—always **re-record or re
 
 ## 🪜 Step-by-Step Usage Guide
 
-1. **Import your macro JSON into BlueStacks.** Pick Auto-Complete, No-Complete, or Mana Cubes depending on the phase you’re running (see strategy below). **[See Import Tutorial in Main README](https://github.com/Ramulica/Idle-Heroes-Community-Macros/blob/master/README.md#how-to-import-macros--controls)**  
+1. **Import your macro JSON into BlueStacks.** Pick Auto-Complete, No-Complete, or Mana Cubes depending on the phase you’re running (see strategy below). **[See Import Tutorial in Main README](https://github.com/Ramulica/Idle-Heroes-Community-Macros/blob/master/#how-to-import-macros--controls)**  
 2. **Clone the workshop layout** pixel-for-pixel against **`board-setup.png`** before pressing Play—especially House placement + row discipline.  
 3. **Launch the macro** from Macro Manager once Flora’s Workshop is idle on the correct screen state (no surprise pop-ups covering tiles).
 

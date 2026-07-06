@@ -6,7 +6,7 @@
 
 Battle macros for Heroic Breakout are coming soon.
 
-**Catalog:** [Fantasy Factory](../) · [All Components](../../AllComponents/README.md)
+**Catalog:** [Fantasy Factory](../) · [All Components](../../AllComponents/)
 ---
 
 If these tools save you time and help you skip the grind, please consider **dropping a ⭐ Star on this repository** on GitHub—it helps others discover the project and keeps motivation high for everyone contributing!

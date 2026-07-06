@@ -1,6 +1,6 @@
 # 🧭 Move From A → B — Navigation Macros
 
-These macros **only route** between screens. They do **not** farm, fight, or claim rewards by themselves. Chain them **before and after** action macros when building merges ([Daily Chores guide](../DailyChores/README.md)).
+These macros **only route** between screens. They do **not** farm, fight, or claim rewards by themselves. Chain them **before and after** action macros when building merges ([Daily Chores guide](../DailyChores/)).
 
 ## Naming convention
 
@@ -51,7 +51,7 @@ Game - Fantasy Factory
   → go back × N
 ```
 
-Browse all building blocks in **[All Components](../AllComponents/README.md)**.
+Browse all building blocks in **[All Components](../AllComponents/)**.
 ---
 
 If these tools save you time and help you skip the grind, please consider **dropping a ⭐ Star on this repository** on GitHub—it helps others discover the project and keeps motivation high for everyone contributing!
