@@ -22,6 +22,10 @@ Everything here is meant to be shared, improved, and maintained together as the 
 
 Click any folder below to jump straight into the macros and configs for that part of the game.
 
+### [Tools](./tools/)
+
+Spreadsheets and planners — **[Event Options Planner](./tools/event-options-planner/)** for Mysterious Sales / festival reward planning.
+
 ### [Daily Chores](./DailyChores/)
 
 **One-tap morning routine** — pre-merged dailies plus a guide to building your own chains with BlueStacks **Macro Merge**:
