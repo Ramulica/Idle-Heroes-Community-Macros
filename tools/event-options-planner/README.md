@@ -1,190 +1,230 @@
-# Event Options Planner (Excel)
+# Idle Heroes Event Excel Guide
 
-[`idle_heroes_event_options_cases_sg.xlsx`](./idle_heroes_event_options_cases_sg.xlsx) — plan **Mysterious Sales** reward routes during Idle Heroes **limited-time festival events**, compare builds, and estimate **Sacred Gold (SG)** cost over several weeks.
+[`idle_heroes_event_options_cases_sg.xlsx`](./idle_heroes_event_options_cases_sg.xlsx)
+
+This Excel helps you plan the **Mysterious Sales / Discount Floors** event.
+
+You do not need to know Excel formulas. You only need to choose rewards from dropdowns.
 
 > **Back to tools index:** [../](./)
 
 ---
 
-## Idle Heroes events — quick context
+## Sheet 1 — Rewards
 
-Idle Heroes runs on **three layers** of events ([Mobi.gg events guide](https://mobi.gg/en/tips/events-idle-heroes/), [BlueStacks events guide](https://www.bluestacks.com/blog/game-guides/idle-heroes/idle-heroes-events-guide.html)):
+This sheet is only for information.
 
-| Type | Duration | Examples |
-|------|----------|----------|
-| **Weekly** | 7 days | Heroic Summon, Prophet Summon, Wishing Fountain, Heroic Miracle |
-| **Monthly** | 30 days (overlaps weekly) | Tavern quests, Fusion, Broken Spaces |
-| **Special / holiday** | Limited dates | Christmas, CNY, Anniversary, Easter, etc. |
+Here you can see what rewards are available on each floor.
 
-**Core strategy:** hoard scrolls, orbs, gems, and event tokens during normal play, then spend during the matching event so milestone rewards pay back your investment. Check the in-game **Event Preview** tab to see what is coming next week.
+Each floor has **3 possible rewards**, but you can choose only **1 reward per floor**.
 
-### Mysterious Sales (what this spreadsheet models)
+Rewards with a **gold border** are discounted.
 
-Most big holiday events include **Mysterious Sales** ([official patch notes](https://sites.google.com/view/1oep1gimvfnfjicbnnun4bbzsjr6ih/%E9%A6%96%E9%A1%B5)):
+Cost rules:
 
-- **12 floors**, each with **3 reward choices** — you pick **one** per floor (cannot change after buying).
-- Normal exchange cost = **10 event medals/tokens** per pick (shown as cost **10** in the sheet).
-- **Round 1 discounts (50% off)** on specific material types per floor — cost **5** in the sheet (gold thick border in-game and in the **Rewards** legend).
-- After floor 12 you get a **Surprise Gift / Floor 13 — Free**: pick **one reward for free**, then a new round can start.
-- Event medals come from the **main festival activity** (board game, summon track, etc.) — not from this spreadsheet.
+* Normal reward = **10**
+* Discounted reward = **5**
+* Floor 13 Free reward = **0**
 
-**Material names in the workbook:**
+Floor 13 is free because after finishing all 12 floors, you can choose one extra reward for free.
 
-| Sheet label | In-game meaning |
-|-------------|-----------------|
+**Material names you will see in dropdowns:**
+
+| Label | In-game meaning |
+|-------|-----------------|
 | **Void** | Void / universal material |
 | **Origin** | Cores of Origin material |
-| **DT** | Destiny Transition material (also labeled “Transition” in patch notes) |
+| **DT** | Destiny Transition material |
 | **Star Soul** | Star Soul material |
 | **Artifacts** | Orange artifact material |
 | **Origin Artifacts** | Orange Origin artifact material |
 | **Grim** | Grimoire material |
 
-Discount pattern (Round 1, from patch notes — verify each event in-game):
-
-- **Void** discounted: floors **1, 2, 4, 5**
-- **Origin** discounted: floors **3, 6, 7, 8, 9, 12** (floor 12 added in newer events)
-- **DT / Transition** discounted: floors **10, 11**
-
-This spreadsheet’s **Rewards** sheet encodes the exact picks and costs for the event version it was built for. If DHGames changes floor layouts in a patch, update **Rewards** first.
-
-### Sacred Gold (SG) column
-
-The **SG Cost** column estimates how much **Sacred Gold** you spend on **paid event bundles** to reach a given **Total Cost** (sum of medal costs for floors 1–13):
-
-| Total Cost (medals) | SG Cost |
-|---------------------|---------|
-| ≤ 20 | 0 |
-| ≤ 45 | 2,750 |
-| ≤ 50 | 3,750 |
-| ≤ 65 | 6,500 |
-| ≤ 70 | 7,500 |
-
-Lower **Total Cost** builds (more 5-cost discounted picks) need less SG. Presets like **Best Free** or **Balanced 45** target these breakpoints.
-
 ---
 
-## How to use this workbook (workflow)
+## Sheet 2 — Options
 
-1. **Event Preview sheet** — see when the next festival likely lands and what it was called last year.
-2. **Rewards sheet** — lookup: which 3 rewards exist on each floor and what each costs (5, 10, or free).
-3. **Options sheet** — pick one reward per floor (dropdowns) or use a saved preset row (`Balanced 45`, `Grim Hunt`, etc.). Check **Total Cost**, **SG Cost**, and **Reward Counts**.
-4. **Cases sheet** — combine options across **multiple weeks** (e.g. 6-week or 12-week plan), set how many weeks you run each option, and compare **Total SG Cost** plus total materials gained.
+This is where you create possible event paths.
 
----
+Each row is one possible option.
 
-## Sheet-by-sheet guide
+Example:
 
-### 1. `Rewards` — floor reference & cost lookup
+* Option 1 = one full path through the floors
+* Option 2 = another full path
+* Option 3 = another full path
 
-**Purpose:** Master list of every floor’s three reward slots and the **medal cost** for each reward type.
+For each option, go from **Floor 1** to **Floor 13** and choose one reward from the dropdown.
 
-| Area | Columns | What it does |
-|------|---------|--------------|
-| **Floor table** | A–D | Floor number and the three reward types offered |
-| **Legend** | F–H | Color coding for Void, Origin, DT, Star Soul, Artifacts, etc. |
-| **Cost lookup** | J–L | `Floor` + `Reward` → **Cost** (5, 10, or used by formulas) |
+Very important:
 
-**How to use:**
+You can only choose rewards that are possible on that floor.
 
-- Before planning, scan floors **1–12** and note which slots are **5** vs **10**.
-- Floor **13 - Free** is the post-round free pick — cost **0** medals (still pick a material type for counting).
-- If a new event patch changes rewards, edit this sheet first; **Options** and **Cases** read from here.
+For example, if Floor 1 has:
 
----
+* Artifacts
+* Void
+* Origin
 
-### 2. `Options` — single-run builds
+Then the dropdown for Floor 1 will only allow those rewards.
 
-**Purpose:** One row = one full 13-floor shopping list. Dropdowns in **Floor 1 … Floor 13 - Free** select the reward type for that floor.
+At the end of the row, Excel calculates:
 
-| Column | Name | What it does |
-|--------|------|----------------|
-| A | Option | Build name (`Best Free`, `Balanced 45`, custom `Option 5`, …) |
-| B–M | Floor 1–12 | Dropdown: reward type for that floor |
-| N | Floor 13 - Free | Free Surprise Gift pick |
-| O | Total Cost | Sum of medal costs (from **Rewards** lookup) |
-| P | SG Cost | Sacred Gold needed for that total (tier table above) |
-| U–AA | Reward Counts | How many of each material type this build gives |
+* **Total Cost** = event floor cost
+* **SG Cost** = how many SG you need for that option
 
-**Preset rows (examples):**
+SG cost is calculated like this:
+
+* Total Cost up to 20 = **0 SG**
+* Total Cost up to 45 = **2750 SG**
+* Total Cost up to 50 = **3750 SG**
+* Total Cost up to 65 = **6500 SG**
+* Total Cost up to 70 = **7500 SG**
+
+You should fill multiple options so you can compare them.
+
+Example:
+
+* Option 1: focus on Void
+* Option 2: focus on Origin
+* Option 3: focus on Artifacts
+* Option 4: mixed rewards
+
+**Preset rows already in the file** (you can edit or copy them):
 
 | Preset | Intent |
 |--------|--------|
-| **Best Free** | Cheap medal route (~20 cost) — good filler week, pairs with heavier builds in **Cases** |
-| **Balanced 45** | Targets **45** total cost → **2,750 SG** tier |
-| **Balanced 65** | Targets **65** total cost → **6,500 SG** tier |
-| **Grim Hunt** / **DT hunt 55** | Focus specific end-game materials |
+| **Best Free** | Low medal cost (~20) — often **0 SG** |
+| **Balanced 45** | Targets **45** total cost → **2750 SG** |
+| **Balanced 65** | Targets **65** total cost → **6500 SG** |
+| **Grim Hunt** / **DT hunt 55** | Focus Grim or DT |
 | **Origin Art Hunt 1/2** | Heavy Origin + Origin Artifacts |
 
-**How to use:**
-
-1. Duplicate an empty `Option` row or edit a preset.
-2. Use dropdowns on each floor — only pick rewards that actually appear on that floor in **Rewards**.
-3. Watch **Total Cost** and **SG Cost** — tune picks to hit a budget.
-4. Compare **Reward Counts** for the materials you care about this event.
-
 ---
 
-### 3. `Cases` — multi-week combo planner
+## Sheet 3 — Cases / Combo Planner
 
-**Purpose:** Plan **several event weeks** in one scenario. Each **Case** row can mix up to **5 different Options** with a **weeks** count for each.
+This sheet is used when you want to repeat options multiple times.
 
-| Column | What it does |
+For example, maybe you want to do:
+
+* Option 3 three times
+* Option 5 one time
+* Option 8 two times
+
+In Sheet 3, choose the **option name** from the dropdown (from Sheet 2) and enter the **quantity** in the **weeks** column next to it.
+
+You can mix up to **5 options** in one case row:
+
+| Column | What to enter |
 |--------|----------------|
-| A | Case name (`6 week Case 1`, `12 weeks Case 15`, …) |
-| B–K | Option 1–5 + weeks each (e.g. `Balanced 45` × 6 weeks) |
-| L | **Total SG Cost** — sum of (weeks × SG Cost) for each option used |
-| M–S | **Total materials** — summed Void, Origin, DT, Star Soul, Artifacts, Origin Artifacts, Grim |
+| Option 1 + weeks | First option and how many times |
+| Option 2 + weeks | Second option and how many times |
+| … | Up to Option 5 |
 
-**Pre-filled examples:**
+Example:
 
-- **6 week Case 1** — `Balanced 45` for all 6 weeks.
-- **6 week Case 2** — 5× `Balanced 45` + 1× `Best Free` (saves SG on one week).
-- **12 weeks Case 16** — mix `Grim Hunt`, `Balanced 45`, and `Best Free` across a longer season.
+| Option | Quantity (weeks) |
+| ------ | ---------------: |
+| Balanced 45 | 3 |
 
-**How to use:**
+This means:
 
-1. Decide how many weeks the festival (or SG budget) covers.
-2. Pick option rows from **Options** and assign **weeks** (must add up to your plan, e.g. 6 or 12).
-3. Compare **Total SG Cost** vs material totals across cases.
-4. Use empty `Case 9+` rows for your own combos.
+You are doing **Balanced 45 three times** (three event weeks).
+
+The sheet will automatically show:
+
+* total Void rewards
+* total Origin rewards
+* total DT rewards
+* total Star Soul rewards
+* total Artifacts rewards
+* total Origin Artifacts rewards
+* total Grim rewards
+* total SG cost
+
+Important:
+
+Sheet 3 does **not** calculate SG based on the combined Total Cost.
+
+It calculates SG like this:
+
+**Option SG Cost × Quantity**
+
+So if Option 3 costs **0 SG**, then:
+
+**Option 3 × 3 = 0 SG**
+
+**Pre-filled examples in the file:**
+
+* **6 week Case 1** — `Balanced 45` × 6 weeks
+* **6 week Case 2** — `Balanced 45` × 5 + `Best Free` × 1 (saves SG on one week)
+* **12 weeks Case 16** — longer mix of Grim Hunt, Balanced 45, and Best Free
 
 ---
 
-### 4. `Event Priview_x0009__x0009_` — seasonal calendar hint
+## Sheet 4 — Event Preview (bonus)
 
-> In Excel the tab may show as **Event Priview** (typo in the original file).
+The tab may show as **Event Priview** in Excel (typo in the original file).
 
-**Purpose:** Rough **event schedule** — event number, expected **date**, and what the event was called **last year**. Use this to plan SG savings and material goals before the festival goes live.
+This sheet is optional. It lists **rough event dates** and what each slot was called **last year** (Anniversary, CNY, Christmas Eve Dream, etc.).
 
-| Column | What it does |
-|--------|----------------|
-| Event Number | Slot in the annual rotation |
-| Date | Projected start (update each year) |
-| Last year Events | Previous name (Anniversary, CNY, Christmas Eve Dream, …) |
-
-**How to use:**
-
-- Cross-check with in-game **Event Preview** when available.
-- Align **Cases** week counts with how many Mysterious Sales rounds you expect before the next big holiday.
-- Names and dates shift — treat this sheet as a **planning hint**, not a guarantee.
+Use it together with the in-game **Event Preview** tab to guess when the next festival is coming — then plan how many weeks to enter on Sheet 3.
 
 ---
 
-## Tips
+## Simple Way to Use the File
 
-- **Excel vs Google Sheets:** Dropdown validation may break if re-saved without data validation. Prefer the original `.xlsx` in Excel.
-- **Patch drift:** DHGames adds materials (Grim, Star Soul) and changes discount floors — verify **Rewards** against the current event’s in-game UI.
-- **Macros + planning:** Use macros for grinding; use this sheet for **where to spend** festival medals and SG efficiently.
+Step 1: Open **Sheet 1** and look at the rewards.
+
+Step 2: Go to **Sheet 2**.
+
+Step 3: Make different options by choosing rewards from the dropdowns.
+
+Step 4: Check the **SG Cost** at the end of each option.
+
+Step 5: Go to **Sheet 3**.
+
+Step 6: Choose which options you want to repeat and how many times (weeks).
+
+Step 7: Look at the final reward totals and total SG cost.
+
+---
+
+## What You Should Look For
+
+Use the file to answer questions like:
+
+* How much SG do I need?
+* Can I get the rewards I want with 0 SG?
+* Is it better to repeat the same option multiple times?
+* How many Void / Origin / DT / Artifact rewards do I get in total?
+* Which option gives the best rewards for the lowest SG?
+
+---
+
+## Important Notes
+
+Do not type random reward names manually.
+
+Always use the dropdowns.
+
+Do not edit the formulas unless you know Excel.
+
+Only change the reward choices, option numbers, and quantities.
+
+Open the file in **Microsoft Excel** when possible — dropdowns work best there.
+
+If DHGames changes floor rewards in a patch, check **Sheet 1** against the in-game shop and update that sheet first.
 
 ---
 
 ## Related links
 
-- [Idle Heroes events overview (Mobi.gg)](https://mobi.gg/en/tips/events-idle-heroes/)
-- [Recurring events guide (BlueStacks)](https://www.bluestacks.com/blog/game-guides/idle-heroes/idle-heroes-events-guide.html)
-- [Mysterious Sales — example patch notes](https://sites.google.com/view/1oep1gimvfnfjicbnnun4bbzsjr6ih/%E9%A6%96%E9%A1%B5)
-- [Repo macros & controls](../../)
+* [Idle Heroes events overview (Mobi.gg)](https://mobi.gg/en/tips/events-idle-heroes/)
+* [Recurring events guide (BlueStacks)](https://www.bluestacks.com/blog/game-guides/idle-heroes/idle-heroes-events-guide.html)
+* [Mysterious Sales — example patch notes](https://sites.google.com/view/1oep1gimvfnfjicbnnun4bbzsjr6ih/%E9%A6%96%E9%A1%B5)
+* [Repo macros & controls](../../)
 
 ---
 

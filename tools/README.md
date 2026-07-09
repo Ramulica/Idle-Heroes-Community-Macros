@@ -6,6 +6,8 @@ Spreadsheets and planners that complement the macros in this repo.
 |------|------|----------------|
 | [Event Options Planner](./event-options-planner/) | [`idle_heroes_event_options_cases_sg.xlsx`](./event-options-planner/idle_heroes_event_options_cases_sg.xlsx) | Plan **Mysterious Sales** floor picks, compare reward builds, and model **Sacred Gold (SG)** spend across multiple event weeks |
 
+**Full guide:** [Idle Heroes Event Excel Guide](./event-options-planner/README.md) — step-by-step for every sheet (Rewards, Options, Cases).
+
 Open the `.xlsx` in **Microsoft Excel** or **Google Sheets** (dropdowns and formulas work best in Excel).
 
 ---
